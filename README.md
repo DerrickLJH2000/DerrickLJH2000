@@ -13,9 +13,9 @@
  <h3 align="center">GitHub Stats</h3>
 <p align="center">
   <a href="https://github.com/DerrickLJH2000">
-      <img height='200' src="https://github-stats-alpha.vercel.app/api?username=DerrickLJH&cc=ffffff&tc=313131FF&ic=218bff&bc=E9E9E9">
+      <img height='200' src="https://github-stats-alpha.vercel.app/api?username=DerrickLJH2000&cc=ffffff&tc=313131FF&ic=218bff&bc=E9E9E9">
   </a>
   <a href="https://github.com/DerrickLJH2000">
-    <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerrickLJH&layout=donut" />
+    <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerrickLJH2000&layout=donut" />
   </a>
 </p>
