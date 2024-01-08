@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**DerrickLJH2000/DerrickLJH2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=2000&pause=1000&center=true&multiline=true&width=500&height=100&lines=Derrick+Lim;Applied+AI+Undergraduate+%40+SIT;Aspiring+AI+Engineer" alt="Typing SVG" />
+  </a>
+  <br/>
+  <a href="https://www.linkedin.com/in/derrick-lim1/"><br/>
+      <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+  </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+ <h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <a href="https://github.com/DerrickLJH2000">
+      <img height='200' src="https://github-stats-alpha.vercel.app/api?username=DerrickLJH&cc=ffffff&tc=313131FF&ic=218bff&bc=E9E9E9">
+  </a>
+  <a href="https://github.com/DerrickLJH2000">
+    <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerrickLJH&layout=donut" />
+  </a>
+</p>
