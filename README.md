@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=2000&pause=1000&center=true&multiline=true&width=500&height=100&lines=Derrick+Lim;Applied+AI+Undergraduate+%40+SIT;Aspiring+AI+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=2000&pause=1000&center=true&multiline=true&width=500&height=100&lines=Derrick+Lim;Applied+AI+Graduate+%40+SIT;AI+Engineering+/+Mobile+App+Development" alt="Typing SVG" />
   </a>
   <br/>
   <a href="https://www.linkedin.com/in/derrick-lim1/"><br/>
